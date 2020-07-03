@@ -1,0 +1,3 @@
+# Proyecto-Calculadora
+Mi primer proyecto de programación
+En este proyecto cuyo objetivo es aprender a utilizar el código HTML y el código CSS creé una página que cuenta con una calculadora que, si bien no realiza los cálculos, posee todas las funciones necesarias para verse como tal. Mi principal complicación consistió en poder alinear los botones con el marco de la calculadora puesto que aun no conocia el uso de la funcion "margin" faltante en el codigo provisto en la sección "#Buttons" del archivo Style.css. Tras un par de horas viendo las referencias, chequeando que lo demas estaba correcto y viendo los recursos de internet pude encontrar esta función que termino con el inconveniente.
