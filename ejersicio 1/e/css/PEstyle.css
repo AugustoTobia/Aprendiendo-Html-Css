@@ -1,0 +1,25 @@
+body {
+	background-color:#0f0;
+} 
+
+
+ #divone{ 
+	position:relative;
+	margin:5% auto;
+	padding:5%;
+	width:80%;
+	height:50%;
+	
+}
+#divone{ background-color: red;}
+#divtwo{ background-color: gray;}
+#divthree{ background-color: blue;}
+#divfour{background-color: white;}
+#divfive{background-color: black;}
+.int{
+	position:relative;
+	margin:2% auto;
+	padding:1%;
+	width:80%;
+	height:40%;
+}

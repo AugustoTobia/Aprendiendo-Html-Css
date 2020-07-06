@@ -1,0 +1,16 @@
+body {
+	background-color:#999;
+} 
+
+
+ #divone, #divtwo, #divthree{ 
+	position:relative;
+	margin:5% auto;
+	padding:5%;
+	width:80%;
+	height:50%;
+	
+}
+#divone{ background-color: #00ff00;}
+#divtwo{ background-color: orangered;}
+#divthree{ background-color: paleturquoise;}

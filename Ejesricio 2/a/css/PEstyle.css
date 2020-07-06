@@ -1,0 +1,30 @@
+body {
+	background-color:#999999;
+} 
+
+
+ #divone{
+	position:relative;
+	margin:5% auto;
+	padding:5%;
+	width:50%;
+	height:50%;
+	background-color: red;
+	
+}
+
+#divtwo{ background-color: gray;}
+#divthree{ background-color: chocolate;}
+.int {
+	width: 43%;
+	height: 80%;
+	position: relative;
+	margin: 2%;
+	padding:1%;
+	float:left;
+}
+
+#clearfix{ 
+	float:none;
+	clear:both;
+}

@@ -1,0 +1,28 @@
+body {
+	background-color:#999;
+} 
+
+#divone{
+	position:relative; 
+	margin:5% auto; 
+	border: 3px solid black;
+	padding: 5%;
+	width: 50%; 
+	height: 400px; 
+    background-color:#00FF00;
+} 
+#divtwo{
+
+	background-color: brown;
+}
+
+#divthree{
+
+	background-color: brown;
+}
+.inner{
+	position: relative;
+	margin: 2	% auto;
+	width: 100%;
+	height: 40%;
+}
