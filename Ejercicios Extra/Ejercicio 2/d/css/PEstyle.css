@@ -1,4 +1,4 @@
-body {background-color: #440044;}
+body {background-color: #0000ff;}
 #cabecera{
     background-color: #bbb;
     margin:5%;
@@ -8,7 +8,7 @@ body {background-color: #440044;}
     position: relative;
 }
 #subcabuno {
-    background-color: #aa0000;
+    background-color: #f00;
     width: 70% ;
     height: 92%;
     float:left;
@@ -17,14 +17,14 @@ body {background-color: #440044;}
 
 }
 #subcabdos{
-    background-color: #00aaaa;
+    background-color: #000;
     width: 20%;
     height: 100%;
     float: left;
     padding: 2px;
 }
 #cuerpo{
-    background-color: #ff8800;
+    background-color: #f00;
     width:100% auto;
     height: 300px;
     position: relative;
@@ -32,7 +32,7 @@ body {background-color: #440044;}
     padding:2%;
 }
 #subcuerpuno {
-    background-color: #00997f;
+    background-color: #0f0;
     width: 10%;
     height: 94%;
     float: left;
@@ -44,10 +44,10 @@ body {background-color: #440044;}
         height: 6%;
         position: relative;
         margin: 5%;
-        background-color: #ffcc00;
+        background-color: #00f;
     }
 #subcuerpdos {
-    background-color: #00997f;
+    background-color: #fff;
     width: 80%;
     height: 95% ;
     float: left;
@@ -75,7 +75,7 @@ body {background-color: #440044;}
 }
 
 #subpie{
-    background-color: #002255;
+    background-color: #0f0;
     width: 80%;
     height: 100%;
     margin: auto
