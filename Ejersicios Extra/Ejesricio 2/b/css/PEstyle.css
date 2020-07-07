@@ -13,13 +13,13 @@ body {
 	
 }
 
-#divtwo{ background-color: gray;}
-#divthree{ background-color: chocolate;}
-#divfour{background-color: crimson;}
-#divfive{background-color:goldenrod ;}
+#divtwo{ background-color: #0f0;}
+#divthree{ background-color: #00f;color: #fff;}
+#divfour{background-color: #999999;}
+#divfive{background-color:#000;color: #fff;}
 .int {
 	width: 19%;
-	height: 80%;
+	height: 84%;
 	position: relative;
 	margin: 2%;
 	padding:1%;

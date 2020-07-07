@@ -1,5 +1,5 @@
 body {
-	background-color:#999999;
+	background-color:#bbb;
 } 
 
 
@@ -8,20 +8,20 @@ body {
 	margin:5% auto;
 	padding:5%;
 	width:50%;
-	height:50%;
+	height:400px;
 	background-color: red;
 	
 }
 
-#divtwo{ background-color: gray;}
-#divthree{ background-color: chocolate;}
+#divtwo{ background-color: #0f0;}
+#divthree{ background-color: #00f;color: #fff}
 .int {
-	width: 43%;
-	height: 80%;
-	position: relative;
-	margin: 2%;
-	padding:1%;
-	float:left;
+width: 41%;
+height: 86%;
+margin: 2%;
+padding: 2%;
+position: relative;
+float:left;
 }
 
 #clearfix{ 
