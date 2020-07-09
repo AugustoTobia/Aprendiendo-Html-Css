@@ -2,21 +2,35 @@ body {
 	background-color:#0f0;
 } 
 
-
- #divone{ 
+#divone { 
 	position:relative;
 	margin:5% auto;
 	padding:5%;
 	width:80%;
-	height:800px;
-	
+	height:800px;	
 }
-#divone{ background-color: red;}
-#divtwo{ background-color: gray;}
-#divthree{ background-color: blue; color: #ffffff;}
-#divfour{background-color: white;}
-#divfive{background-color: black; color: #ffffff;}
-.int{
+
+#divone {
+	background-color: red;
+}
+
+#divtwo {
+	background-color: gray;
+}
+
+#divthree {
+	background-color: blue; color: #ffffff;
+}
+
+#divfour {
+	background-color: white;
+}
+
+#divfive {
+	background-color: black; color: #ffffff;
+}
+
+.int {
 	position:relative;
 	margin:1% ;
 	padding:1%;

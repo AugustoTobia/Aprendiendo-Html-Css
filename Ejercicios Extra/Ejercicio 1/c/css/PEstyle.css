@@ -2,18 +2,23 @@ body {
 	background-color:#fff;
 } 
 
-
- #divone{
+#divone {
 	position:relative;
 	margin:5% auto;
 	padding:5%;
 	width:80%;
 	height:400px;
-	background-color: #ff0000;
-	
+	background-color: #ff0000;	
 }
-#divtwo {background-color: #0000ff;}
-#divthree{ background-color: #00ff00;}
+
+#divtwo {
+	background-color: #0000ff;
+}
+
+#divthree {
+	background-color: #00ff00;
+}
+
 .int {
 	width: 80% auto;
 	height: 50%;

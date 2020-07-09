@@ -2,7 +2,7 @@ body {
 	background-color:#00ff00;
 } 
 
-#divone{
+#divone {
 	position:relative; 
 	margin:5% auto; 
 	padding: 5%;
@@ -10,16 +10,17 @@ body {
 	height: 400px; 
     background-color:#ff0000;
 } 
-#divtwo{
+
+#divtwo {
 
 	background-color: #000000;
-	}
+}
 
-#divthree{
-
+#divthree {
 	background-color: #0000ff;
 }
-.inner{
+
+.inner {
 	position: relative;
 	margin: 2% auto;
 	padding: 1%;

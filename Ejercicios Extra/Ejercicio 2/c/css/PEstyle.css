@@ -1,26 +1,13 @@
-body {background-color: #999;}
-#divone{background-color: #00ff00; }
-#divtwo{background-color: #ff0000;}
-#divthree{background-color: #0000ff;color:#fff;}
-#divfour{background-color: #bbb;}
-#divfive{background-color: #000000;color:#fff;}
-.int{
-    width: 30%;
-    height: 85%;
-    margin: 2.5% 5%;
-    padding:5%;
-    position: relative;
-    float: left;
+body {
+    background-color: #999;
 }
-.ext{
-    width: 2.5%;
-    height: 600px;
-    margin: 5% 3.75%;
-    padding: 5%;
-    position: relative;
-    float: left;
+
+#divone {
+    background-color: #00ff00;
 }
-.center{
+
+#divtwo {
+    background-color: #ff0000;
     width:45%;
     height: 600px;
     position: relative;
@@ -28,7 +15,38 @@ body {background-color: #999;}
     padding:5%;
     float:left;
 }
-#clearfix{
+
+#divthree {
+    background-color: #0000ff;color:#fff;
+}
+
+#divfour {
+    background-color: #bbb;
+}
+
+#divfive {
+    background-color: #000000;color:#fff;
+}
+
+.int {
+    width: 30%;
+    height: 85%;
+    margin: 2.5% 5%;
+    padding:5%;
+    position: relative;
+    float: left;
+}
+
+.ext {
+    width: 2.5%;
+    height: 600px;
+    margin: 5% 3.75%;
+    padding: 5%;
+    position: relative;
+    float: left;
+}
+
+.clearfix {
     float:none;
     clear: both;
 }

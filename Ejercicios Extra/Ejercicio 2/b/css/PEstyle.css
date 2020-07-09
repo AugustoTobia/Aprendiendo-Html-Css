@@ -2,8 +2,7 @@ body {
 	background-color:#999999;
 } 
 
-
- #divone{
+#divone {
 	position:relative;
 	margin:5% auto;
 	padding:5%;
@@ -13,10 +12,22 @@ body {
 	
 }
 
-#divtwo{ background-color: #0f0;}
-#divthree{ background-color: #00f;color: #fff;}
-#divfour{background-color: #999999;}
-#divfive{background-color:#000;color: #fff;}
+#divtwo {
+	background-color: #0f0;
+}
+
+#divthree {
+	background-color: #00f;color: #fff;
+}
+
+#divfour {
+	background-color: #999999;
+}
+
+#divfive {
+	background-color:#000;color: #fff;
+}
+
 .int {
 	width: 19%;
 	height: 84%;
@@ -26,7 +37,7 @@ body {
 	float:left;
 }
 
-#clearfix{ 
+#clearfix { 
 	float:none;
 	clear:both;
 }

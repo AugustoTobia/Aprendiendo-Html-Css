@@ -2,29 +2,33 @@ body {
 	background-color:#bbb;
 } 
 
-
- #divone{
+#divone {
 	position:relative;
 	margin:5% auto;
 	padding:5%;
 	width:50%;
 	height:400px;
 	background-color: red;
-	
 }
 
-#divtwo{ background-color: #0f0;}
-#divthree{ background-color: #00f;color: #fff}
+#divtwo {
+	background-color: #0f0;
+}
+
+#divthree {
+	background-color: #00f;color: #fff
+}
+
 .int {
-width: 41%;
-height: 86%;
-margin: 2%;
-padding: 2%;
-position: relative;
-float:left;
+	width: 41%;
+	height: 86%;
+	margin: 2%;
+	padding: 2%;
+	position: relative;
+	float:left;
 }
 
-#clearfix{ 
+#clearfix { 
 	float:none;
 	clear:both;
 }
