@@ -1,0 +1,43 @@
+body {
+    background-color: #000033;
+}
+#div1 {
+    width: 50%;
+    height: 200px;
+    margin:5% auto;
+    border: 20px solid #ffcc88;
+    border-radius: 10px;
+    padding: 2%;
+    color: #ffcc88;
+    background-color: #005555;
+    position:relative;
+    text-align: center;
+    font-size: 50px;
+    font-family:agenda;
+}
+
+#cuentas {
+    background-color: #005555;
+    width: 50%;
+    height: 500px;
+    margin: 5% auto;
+    border: 20px solid #ffcc88;
+    border-radius: 10px;
+    padding: 1% 2%;
+
+}
+
+.cuenta {
+    position: relative;
+    background-color: #22aa88;
+    width: 84%;
+    height: 10.5%;
+    margin: 1% auto;
+    border: 1% solid #ffcc88;
+    border-radius: 5px;
+    padding: 1%;
+    color: #ffcc88;
+    font-family: agenda;
+    font-size: 20px;
+    text-align: center;
+}
