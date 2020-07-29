@@ -1,4 +1,4 @@
-/*var edad = 18;
+var edad = 18;
 if (edad < 12){
  alert('Es un niño');
 } else if (edad < 19){
@@ -40,9 +40,9 @@ var num2 = 8;
     }
     if (++num1 > num2) {
         alert("incrementar en 1 el valor de num1 lo hace mayor a num2");
-    }*/
+    }
 
-/*var myArray = ["manzana", "anana", "pera", "melon", "zandia"];
+var myArray = ["manzana", "anana", "pera", "melon", "zandia"];
 var r = 0;
 var Mayus;
 for(r = 0; r < myArray.length; ++r)
@@ -152,7 +152,7 @@ function cantidadDeVocales(cantidad){
 }
     var cantidad = cantidadDeVocales ("Una manzana es verde");
     console.log(cantidad);
-*/
+
 function miFuncion(unNumero, unArray){ 
     ++miNumero;    
      miArray.pop(); 
